@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tyron-raza
 - 👀 I’m interested in software and game developement
-- 🌱 I’m currently learning C#,Java, JSNode etc.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Python, C#, C++
+- 💞️ I’m looking to collaborate on ML Projects
 - 📫 How to reach me tyronraza15@gmail.com
 
 <!---
